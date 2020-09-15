@@ -1,5 +1,5 @@
 # ITSA
-Incremental Trajectory Stream Anonymizer (ITSA),
+Incremental Trajectory Stream Anonymizer (ITSA)
 
 Publication:
 
